@@ -29,7 +29,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginEnd="32dp"
         android:layout_marginRight="32dp"
-        android:text="Saiba a melhor opÃ§Ã£o de abastecimento para seu veÃ­culo."
+        android:text="Saiba a melhor opção de abastecimento para seu veículo."
         android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -51,7 +51,7 @@
         <com.google.android.material.textfield.TextInputEditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Digite o preÃ§o da Ãlcool - Ex: 4.95"
+            android:hint="Digite o preço da Álcool - Ex: 4.95"
             android:inputType="numberDecimal" />
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -71,7 +71,7 @@
         <com.google.android.material.textfield.TextInputEditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Digite o preÃ§o da Gasolina - Ex: 3.35" />
+            android:hint="Digite o preço da Gasolina - Ex: 3.35" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <Button
